@@ -16,7 +16,7 @@
 
 - :zap: Interested in 
 
-- :mailbox: Reach me on my email: [![Gmail Badge](https://img.shields.io/badge/-Gmail-red?style=flat&logo=Gmail&logoColor=white)](mailto:alexeyf08@gmail.com)
+- :mailbox: Reach me on my email: [![Gmail Badge](https://img.shields.io/badge/-Gmail-red?style=flat&logo=Gmail&logoColor=white)](mailto:kpiyarska@gmail.com)
 
 ---
 
