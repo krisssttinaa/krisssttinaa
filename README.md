@@ -4,7 +4,7 @@
 
 ---
 
-### :man_technologist: About me:
+### 👩‍💻: About me:
 
 ...
 
