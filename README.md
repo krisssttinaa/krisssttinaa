@@ -1,6 +1,5 @@
 
 # Hello! My name is Krissstina 
-:zap:
 
 ---
 
