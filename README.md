@@ -1,5 +1,5 @@
 
-# Hello! My name is Krissstina 
+# Hello! I'm Krissstina 
 
 ---
 
