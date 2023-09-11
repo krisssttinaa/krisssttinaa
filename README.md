@@ -14,7 +14,7 @@
 
 - :mailbox: Reach me on my email: [![Gmail Badge](https://img.shields.io/badge/-Gmail-red?style=flat&logo=Gmail&logoColor=white)](mailto:kpiyarska@gmail.com)
 
----
+--
 
 <details align="left">
   <summary><h2><b>📚 My stack</b></h2></summary>
