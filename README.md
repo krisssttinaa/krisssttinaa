@@ -16,37 +16,16 @@
 
 ---
 
-### 💻 Technologies:
-
-<div>
-  <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original.svg" title="git" alt="git" width="40" height="40"/>&nbsp
-  <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" title="html5" alt="html5" width="40" height="40"/>&nbsp
-  <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-original.svg" title="css" alt="css" width="40" height="40"/>&nbsp
-  <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" title="javascript" alt="javascript" width="40" height="40"/>&nbsp
-  <img src="https://github.com/devicons/devicon/blob/master/icons/c/c-plain.svg" title="C" alt="C" width="40" height="40"/>&nbsp;
-</div>
-
----
-
 <details align="left">
   <summary><h2><b>📚 My stack</b></h2></summary>
   <p>
     <h3>Languages</h3>
     <img src="https://skillicons.dev/icons?i=c,py,java,ocaml,javascript,html,css&perline=7" />
-    <h3>Frameworks / Tools</h3>
-    <img src="https://skillicons.dev/icons?i=figma,linux,git,bootstrap&perline=7" />
-    <h3>Software</h3>
-    <img src="https://skillicons.dev/icons?i=visualstudio,idea&perline=7" />
+    <h3>Frameworks / Tools / Software</h3>
+    <img src="https://skillicons.dev/icons?i=figma,linux,git,bootstrap,visualstudio,idea&perline=7" />
     <br>
   </p>
 </details>
-
-### 🛠 Instruments:
-
-<div>
-  <img src="https://github.com/devicons/devicon/blob/master/icons/figma/figma-original.svg" title="figma" alt="figma" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/linux/linux-original.svg" title="linux" alt="linux" width="40" height="40"/>&nbsp;
-</div>
 
 ---
 
