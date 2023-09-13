@@ -5,7 +5,7 @@
  <img width="600" src="assets/github-snake.svg" alt="snake"/>
 </p>
 
-### 👩‍💻 About me:
+## 👩‍💻 About me:
 
 - :telescope: Studying Computer Science at FAMNIT, University of Primorska, Slovenia.
 
@@ -28,7 +28,7 @@
 
 ---
 
-### ⚙️ GitHub statistics:
+## ⚙️ GitHub statistics:
 
 <table>
   <tr>
