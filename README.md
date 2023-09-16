@@ -41,4 +41,4 @@
   </tr>
 </table>
 
-![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=krisssttinaa)
+![pv](https://pageview.vercel.app/?github_user=krisssttinaa)
