@@ -36,7 +36,7 @@
       <img align="left" src="http://github-readme-streak-stats.herokuapp.com?user=krisssttinaa&theme=dark&background=000000" alt="webDev's Github stats" />
     </td>
     <td>
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=krisssttinaa&count_private=true&show_icons=true&theme=transparent" />
+      <img align="right" src="https://github-readme-stats.vercel.app/api?username=krisssttinaa&count_private=true&show_icons=true&theme=transparent" />
     </td>
   </tr>
 </table>
