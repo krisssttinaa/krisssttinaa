@@ -37,7 +37,7 @@
     </td>
     <td>
       
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=jrdndj&show_icons=true&theme=transparent&title_color=transparent&text_color=transparent&locale=en&layout=compact" alt="jrdndj" /></p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=krisssttinaa&show_icons=true&theme=transparent&title_color=transparent&text_color=transparent&locale=en&layout=compact" alt="jrdndj" /></p>
     </td>
   </tr>
 </table>
