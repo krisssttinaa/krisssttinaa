@@ -16,7 +16,7 @@
 ---
 
 <details align="left">
-  <summary><h2><b>📚 My stack</b></h2></summary>
+  <summary><h2><b>📚 My stack:</b></h2></summary>
   <p>
     <h3>Languages</h3>
     <img src="https://skillicons.dev/icons?i=c,java,ocaml,javascript,html,css&perline=7" />
