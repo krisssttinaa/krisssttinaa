@@ -9,7 +9,7 @@
 
 - :telescope: Studying Computer Science at FAMNIT, University of Primorska, Slovenia.
 
-- :zap: Interested in Cyber security, Software engineering, Human-computer interaction
+- :zap: Interested in Software engineering, Cyber security, Human-computer interaction
 
 - :mailbox: Reach me on my email: [![Gmail Badge](https://img.shields.io/badge/-Gmail-red?style=flat&logo=Gmail&logoColor=white)](mailto:kpiyarska@gmail.com)
 
