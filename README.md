@@ -21,7 +21,7 @@
     <h3>Languages</h3>
     <img src="https://skillicons.dev/icons?i=java,c,py,ocaml,javascript,html,css&perline=7" />
     <h3>Frameworks / Tools / Software</h3>
-    <img src="https://skillicons.dev/icons?i=figma,linux,git,bootstrap,visualstudio,idea&perline=7" />
+    <img src="https://skillicons.dev/icons?i=figma,linux,mac,git,bootstrap,visualstudio,idea&perline=7" />
     <br>
   </p>
 </details>
