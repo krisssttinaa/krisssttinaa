@@ -26,17 +26,4 @@
 
 ---
 
-## ⚙️ GitHub statistics:
-
-<table>
-  <tr>
-    <td>
-      <img align="center" src="http://github-readme-streak-stats.herokuapp.com?user=krisssttinaa&theme=dark&background=000000" alt="webDev's Github stats" />
-    </td>
-    <td> 
-      <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=krisssttinaa&show_icons=true&theme=transparent&title_color=transparent&text_color=transparent&locale=en&layout=compact" alt="jrdndj" /></p>
-    </td>
-  </tr>
-</table>
-
 ![pv](https://pageview.vercel.app/?github_user=krisssttinaa)
