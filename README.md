@@ -17,7 +17,7 @@
   <summary><h2><b>📚 My stack:</b></h2></summary>
   <p>
     <h3>Languages</h3>
-    <img src="https://skillicons.dev/icons?i=java,c,py,javascript,typescript,html,css,ocaml&perline=7" />
+    <img src="https://skillicons.dev/icons?i=java,c,py,javascript,typescript,ocaml&perline=7" />
     <h3>!Languages</h3>
     <img src="https://skillicons.dev/icons?i=html,css&perline=7" />
     <h3>Frameworks / Tools / Software</h3>
