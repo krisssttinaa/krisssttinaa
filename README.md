@@ -19,7 +19,7 @@
     <h3>Languages</h3>
     <img src="https://skillicons.dev/icons?i=java,c,py,javascript,typescript,ocaml&perline=7" />
     <h3>!Languages</h3>
-    <img src="https://skillicons.dev/icons?i=html,css&perline=7" />
+    <img src="https://skillicons.dev/icons?i=html,css,nodejs&perline=7" />
     <h3>Frameworks / Tools / Software</h3>
     <img src="https://skillicons.dev/icons?i=figma,linux,git,github,bootstrap,vscode,idea&perline=7" />
     <br>
