@@ -18,7 +18,7 @@
   <p>
     <h3>Languages</h3>
     <img src="https://skillicons.dev/icons?i=java,c,py,javascript,typescript,ocaml&perline=7" />
-    <h3>!Languages</h3>
+    <h3>Web Development</h3>
     <img src="https://skillicons.dev/icons?i=html,css,nodejs,react&perline=7" />
     <h3>Frameworks / Tools / Software</h3>
     <img src="https://skillicons.dev/icons?i=figma,linux,git,github,vscode,docker,idea&perline=7" />
