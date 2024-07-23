@@ -21,7 +21,7 @@
     <h3>Web Development</h3>
     <img src="https://skillicons.dev/icons?i=html,css,nodejs,react&perline=7" />
     <h3>Frameworks / Tools / Software</h3>
-    <img src="https://skillicons.dev/icons?i=figma,photoshop,git,github,vscode,docker,idea&perline=7" />
+    <img src="https://skillicons.dev/icons?i=figma,photoshop,illustrator,git,github,vscode,docker,idea&perline=7" />
     <br>
   </p>
 </details>
