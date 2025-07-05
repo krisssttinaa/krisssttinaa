@@ -27,5 +27,3 @@
 </details>
 
 ---
-
-![pv](https://pageview.vercel.app/?github_user=krisssttinaa)
